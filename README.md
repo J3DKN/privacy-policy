@@ -1,31 +1,31 @@
 # privacy-policy
 
-1. Alleiniger Zweck der Erweiterung
-Der alleinige Zweck dieser Erweiterung ist es, den Inhalt von Webseiten, die Sie besuchen, auf Ihren Wunsch hin in eine von Ihnen gewählte Sprache zu übersetzen. Alle erhobenen oder verarbeiteten Daten dienen ausschließlich diesem Zweck.
-2. Erhobene und verarbeitete Informationen
-Um ihre Funktion zu erfüllen, verarbeitet die Erweiterung die folgenden Informationen:
-Vom Benutzer ausgewählte Zielsprache: Wenn Sie eine bevorzugte Sprache für die Übersetzung festlegen, wird diese Einstellung lokal auf Ihrem Computer im Speicher Ihres Browsers gespeichert (storage Berechtigung). Diese Information verlässt Ihren Computer nicht durch die Erweiterung selbst, es sei denn, sie wird als Parameter an den Übersetzungsdienst gesendet.
-Inhalt der zu übersetzenden Webseite: Wenn Sie eine Übersetzung über das Popup oder das Kontextmenü (contextMenus Berechtigung) initiieren, muss die Erweiterung auf den Textinhalt der aktuellen Webseite zugreifen (scripting Berechtigung). Dieser Text wird extrahiert, um ihn an einen externen Übersetzungsdienst zu senden.
-URL der aktuellen Webseite: Die Erweiterung benötigt möglicherweise die URL des aktiven Tabs (tabs Berechtigung), um sicherzustellen, dass das Skript korrekt ausgeführt wird und um den Kontext für den Übersetzungsdienst bereitzustellen (manche Dienste benötigen dies zur Verbesserung der Übersetzungsqualität).
-3. Wie Informationen verwendet werden
-Ihre gespeicherte Zielsprache wird verwendet, um Übersetzungsanfragen automatisch in diese Sprache zu leiten, ohne dass Sie sie jedes Mal auswählen müssen.
-Der Textinhalt der Webseite wird an einen externen Übersetzungsdienst gesendet, um die eigentliche Übersetzung durchzuführen. Die Erweiterung selbst führt keine Übersetzung durch.
-Die URL der Webseite wird verwendet, um die Funktion auf der korrekten Seite auszuführen und kann als Kontext an den Übersetzungsdienst gesendet werden.
-4. Weitergabe von Informationen an Dritte (Übersetzungsdienst)
-Dies ist der wichtigste Punkt für die Datenweitergabe: Um Webseiten zu übersetzen, muss der Textinhalt der Seite an einen externen Übersetzungsdienst gesendet werden. Wir verwenden derzeit [Name des Übersetzungsdienstes, z.B. Google Translate] für diesen Zweck.
-Wenn Sie eine Übersetzung initiieren, wird der zu übersetzende Text (und möglicherweise die URL der Seite als Kontext) an die Server von [Name des Übersetzungsdienstes] übertragen.
-Die Verarbeitung dieser Daten durch [Name des Übersetzungsdienstes] unterliegt deren eigener Datenschutzerklärung. Wir empfehlen Ihnen dringend, die Datenschutzerklärung von [Name des Übersetzungsdienstes] zu lesen, um zu verstehen, wie Ihre Daten dort verarbeitet werden. [Optional: Fügen Sie hier einen Link zur Datenschutzerklärung des Dienstes ein].
-Wir geben keine anderen persönlichen Informationen oder Browserdaten an diesen oder andere Dritte weiter.
-5. Datenspeicherung und Sicherheit
-Ihre bevorzugte Zielsprache wird lokal im Speicher Ihres Browsers gespeichert und bleibt dort, bis Sie sie ändern oder die Erweiterung deinstallieren.
-Der Textinhalt und die URL der zu übersetzenden Webseiten werden nur temporär während des Übersetzungsvorgangs im Speicher der Erweiterung gehalten und nicht dauerhaft gespeichert.
-Wir ergreifen angemessene Maßnahmen, um die lokal gespeicherten Daten zu schützen, aber bitte beachten Sie, dass die Übertragung von Daten über das Internet niemals zu 100 % sicher ist.
-6. Datenaufbewahrung
-Wir bewahren Ihre bevorzugte Spracheinstellung nur so lange auf, wie die Erweiterung installiert ist und Sie die Einstellung nicht ändern. Der Inhalt und die URL von Webseiten werden nur für die Dauer der Übersetzungsanfrage verarbeitet. Informationen, die an den externen Übersetzungsdienst gesendet werden, unterliegen dessen Aufbewahrungsrichtlinien.
-7. Ihre Wahlmöglichkeiten
-Sie können Ihre bevorzugte Zielsprache jederzeit über die Einstellungen der Erweiterung ändern oder löschen.
-Sie können die Erweiterung jederzeit deinstallieren. Dadurch werden alle lokal gespeicherten Einstellungen (Ihre bevorzugte Sprache) entfernt.
-8. Privatsphäre von Kindern
-Die Erweiterung ist nicht für die Nutzung durch Kinder unter 13 Jahren (oder dem entsprechenden Mindestalter in Ihrer Gerichtsbarkeit) vorgesehen. Wir erheben nicht wissentlich personenbezogene Daten von Kindern.
-9. Änderungen an dieser Datenschutzerklärung
-Wir können diese Datenschutzerklärung von Zeit zu Zeit aktualisieren. Wir werden Sie über wesentliche Änderungen informieren, indem wir die neue Datenschutzerklärung auf dieser Seite veröffentlichen und das Datum der "Letzten Aktualisierung" oben ändern. Wir empfehlen Ihnen, diese Datenschutzerklärung regelmäßig zu überprüfen.
+1. Single Purpose of the Extension
+The sole purpose of this Extension is to translate the content of webpages you visit into your chosen language upon your request. All data collected or processed is exclusively for this purpose.
+2. Information Collected and Processed
+To perform its function, the Extension processes the following information:
+User-Selected Target Language: If you set a preferred language for translation, this setting is stored locally on your computer within your browser's storage (storage permission). This information does not leave your computer via the Extension itself, unless it is sent as a parameter to the translation service.
+Content of the Webpage to be Translated: When you initiate a translation via the popup or the context menu (contextMenus permission), the Extension needs to access the text content of the current webpage (scripting permission). This text is extracted in order to send it to an external translation service.
+URL of the Current Webpage: The Extension may require the URL of the active tab (tabs permission) to ensure the script executes correctly and potentially to provide context to the translation service (some services may use this to improve translation quality).
+3. How Information is Used
+Your stored target language is used to automatically direct translation requests to that language without requiring you to select it each time, simplifying and speeding up the translation process.
+The text content of the webpage is sent to an external translation service to perform the actual translation. The Extension itself does not perform translations.
+The URL of the webpage is used to execute the function on the correct page and may be sent as context to the translation service.
+4. Sharing Information with Third Parties (Translation Service)
+This is the most critical point regarding data sharing: To translate webpages, the text content of the page must be sent to an external translation service. We currently use [Name of Translation Service, e.g., Google Translate] for this purpose.
+When you initiate a translation, the text to be translated (and potentially the page URL as context) is transmitted to the servers of [Name of Translation Service].
+The processing of this data by [Name of Translation Service] is governed by their own privacy policy. We strongly recommend that you read the privacy policy of [Name of Translation Service] to understand how your data is processed by them. [Optional: Add a link to the service's privacy policy here].
+We do not share any other personal information or browsing data with this or any other third party.
+5. Data Storage and Security
+Your preferred target language is stored locally within your browser's storage and remains there until you change it or uninstall the Extension.
+The text content and URL of webpages being translated are only held temporarily in the Extension's memory during the translation process and are not stored persistently by the Extension.
+We take reasonable measures to protect locally stored data, but please be aware that no method of transmission over the internet or electronic storage is 100% secure.
+6. Data Retention
+We retain your preferred language setting only as long as the Extension is installed and you do not change the setting. The content and URL of webpages are processed only for the duration of the translation request. Information sent to the external translation service is subject to their data retention policies.
+7. Your Choices
+You can change or clear your preferred target language at any time through the Extension's settings.
+You can uninstall the Extension at any time. This will remove any locally stored settings (your preferred language).
+8. Children's Privacy
+The Extension is not intended for use by children under the age of 13 (or the relevant minimum age in your jurisdiction). We do not knowingly collect personal information from children.
+9. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of any significant changes by posting the new Privacy Policy on this page and updating the "Last Updated" date at the top. We encourage you to review this Privacy Policy periodically.
